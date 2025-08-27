@@ -27,13 +27,21 @@
 
 	<artifactId>alvin-docker-apache</artifactId>
 	<packaging>pom</packaging>
+<<<<<<< HEAD
 	<version>1.2-SNAPSHOT</version>
+=======
+	<version>1.1.1-SNAPSHOT</version>
+>>>>>>> refs/remotes/origin/issues/CORA-3084
 	<name>Alvin docker for Apache</name>
 
 	<properties>
 		<!-- Override property so docker-build profile activates in this module -->
 		<docker.build.activate>true</docker.build.activate>
+<<<<<<< HEAD
 		<cora-docker-apache.version>1.1.0</cora-docker-apache.version>
+=======
+		<cora-docker-apache.version>1.1.1-SNAPSHOT</cora-docker-apache.version>
+>>>>>>> refs/remotes/origin/issues/CORA-3084
 	</properties>
 
 	<scm>
