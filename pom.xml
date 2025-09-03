@@ -27,7 +27,7 @@
 
 	<artifactId>alvin-docker-apache</artifactId>
 	<packaging>pom</packaging>
-	<version>1.6-SNAPSHOT</version>
+	<version>1.7-SNAPSHOT</version>
 	<name>Alvin docker for Apache</name>
 
 	<properties>
